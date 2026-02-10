@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajeev-the/Daily_DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
