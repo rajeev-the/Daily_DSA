@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/rajeev-the/Daily_DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajeev-the/Daily_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rajeev-the/Daily_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,9 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
