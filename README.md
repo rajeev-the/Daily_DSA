@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/rajeev-the/Daily_DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rajeev-the/Daily_DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajeev-the/Daily_DSA/tree/master/0062-unique-paths) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajeev-the/Daily_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
 ## Binary Search
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajeev-the/Daily_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
