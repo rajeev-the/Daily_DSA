@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
