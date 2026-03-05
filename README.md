@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -157,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rajeev-the/Daily_DSA/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
