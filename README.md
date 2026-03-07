@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajeev-the/Daily_DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0097-interleaving-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 ## Counting
 |  |
