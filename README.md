@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/rajeev-the/Daily_DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajeev-the/Daily_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/rajeev-the/Daily_DSA/tree/master/0312-burst-balloons) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajeev-the/Daily_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
