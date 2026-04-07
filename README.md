@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
 | ------- |
