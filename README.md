@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajeev-the/Daily_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/rajeev-the/Daily_DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rajeev-the/Daily_DSA/tree/master/0115-distinct-subsequences) |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/rajeev-the/Daily_DSA/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -208,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
