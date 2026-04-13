@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
