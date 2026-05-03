@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rajeev-the/Daily_DSA/tree/master/0371-sum-of-two-integers) |
+| [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
