@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/rajeev-the/Daily_DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
+| [0419-battleships-in-a-board](https://github.com/rajeev-the/Daily_DSA/tree/master/0419-battleships-in-a-board) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
+| [0419-battleships-in-a-board](https://github.com/rajeev-the/Daily_DSA/tree/master/0419-battleships-in-a-board) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0419-battleships-in-a-board](https://github.com/rajeev-the/Daily_DSA/tree/master/0419-battleships-in-a-board) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/rajeev-the/Daily_DSA/tree/master/1861-rotating-the-box) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
