@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajeev-the/Daily_DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/rajeev-the/Daily_DSA/tree/master/0036-valid-sudoku) |
+| [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/rajeev-the/Daily_DSA/tree/master/0134-gas-station) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/rajeev-the/Daily_DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/rajeev-the/Daily_DSA/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rajeev-the/Daily_DSA/tree/master/0185-department-top-three-salaries) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
