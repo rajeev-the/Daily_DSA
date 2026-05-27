@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/rajeev-the/Daily_DSA/tree/master/1861-rotating-the-box) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/rajeev-the/Daily_DSA/tree/master/0134-gas-station) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Bit Manipulation
 |  |
