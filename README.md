@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
@@ -305,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rajeev-the/Daily_DSA/tree/master/0077-combinations) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
