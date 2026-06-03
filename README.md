@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/rajeev-the/Daily_DSA/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0394-decode-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
 | ------- |
