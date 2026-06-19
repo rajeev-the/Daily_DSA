@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/rajeev-the/Daily_DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajeev-the/Daily_DSA/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
