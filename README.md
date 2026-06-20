@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/rajeev-the/Daily_DSA/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rajeev-the/Daily_DSA/tree/master/0185-department-top-three-salaries) |
 | [1148-article-views-i](https://github.com/rajeev-the/Daily_DSA/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rajeev-the/Daily_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/rajeev-the/Daily_DSA/tree/master/1683-invalid-tweets) |
 ## Backtracking
 |  |
