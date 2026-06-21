@@ -1,36 +1,35 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         
-        int[] Alph = new int[26];
-
-        int left = 0;
-
         int n = s.length();
 
-        int feq = 0;
+        int[] Aph = new int[26];
 
-        int max = 0;
+        int frq = 0;
 
-        for(int i =0 ; i < n ; i++){
-             
-             int ch = s.charAt(i)-'A';
+        int max =0;
+        int left = 0;
 
-             Alph[ch]++;
+        for(int i= 0 ; i < n ;i++){
 
-             feq = Math.max(feq,Alph[ch]);
+            char word = s.charAt(i);
 
-             while( (i-left+1) - feq  > k ){
-                
-                int ch1 = s.charAt(left)-'A';
-                Alph[ch1]--;
-                
-                left++;
-             }
-          
-        max = Math.max(max,i-left+1);
+            Aph[word-'A']++;
 
+            frq = Math.max(frq, Aph[word-'A']);
+              
+              while( (i-left+1) - frq > k   ){
+
+                    char inner = s.charAt(left);
+                    Aph[inner-'A']--;
+
+                  left++;
+              }
+
+             max = Math.max(max,i-left+1);
         }
 
         return max;
+
     }
 }
