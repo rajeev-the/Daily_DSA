@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/rajeev-the/Daily_DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/rajeev-the/Daily_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -349,4 +352,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
