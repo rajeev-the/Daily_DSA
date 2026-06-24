@@ -293,12 +293,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rajeev-the/Daily_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/rajeev-the/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/rajeev-the/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rajeev-the/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/rajeev-the/Daily_DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
