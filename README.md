@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rajeev-the/Daily_DSA/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
@@ -216,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajeev-the/Daily_DSA/tree/master/0062-unique-paths) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -348,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rajeev-the/Daily_DSA/tree/master/0077-combinations) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Queue
 |  |
 | ------- |
