@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/rajeev-the/Daily_DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Combinatorics
 |  |
 | ------- |
