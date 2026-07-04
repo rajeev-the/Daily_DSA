@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0872-leaf-similar-trees](https://github.com/rajeev-the/Daily_DSA/tree/master/0872-leaf-similar-trees) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/rajeev-the/Daily_DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajeev-the/Daily_DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/rajeev-the/Daily_DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/rajeev-the/Daily_DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Topological Sort
