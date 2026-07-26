@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/rajeev-the/Daily_DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/rajeev-the/Daily_DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2222-number-of-ways-to-select-buildings](https://github.com/rajeev-the/Daily_DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
