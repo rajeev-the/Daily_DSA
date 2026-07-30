@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Binary Tree
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/rajeev-the/Daily_DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Graph Theory
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/rajeev-the/Daily_DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3493-properties-graph) |
 ## Topological Sort
 |  |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Sliding Window
 |  |
 | ------- |
