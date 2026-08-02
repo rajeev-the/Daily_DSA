@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rajeev-the/Daily_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajeev-the/Daily_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajeev-the/Daily_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/rajeev-the/Daily_DSA/tree/master/1861-rotating-the-box) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajeev-the/Daily_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/rajeev-the/Daily_DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Sorting
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -414,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
