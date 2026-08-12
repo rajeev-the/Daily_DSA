@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/rajeev-the/Daily_DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rajeev-the/Daily_DSA/tree/master/0115-distinct-subsequences) |
