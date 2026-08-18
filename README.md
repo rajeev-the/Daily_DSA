@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajeev-the/Daily_DSA/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
+| [1694-reformat-phone-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1694-reformat-phone-number) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/rajeev-the/Daily_DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Simulation
