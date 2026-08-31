@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rajeev-the/Daily_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rajeev-the/Daily_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rajeev-the/Daily_DSA/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0788-rotated-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajeev-the/Daily_DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rajeev-the/Daily_DSA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0394-decode-string) |
 ## String
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rajeev-the/Daily_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajeev-the/Daily_DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rajeev-the/Daily_DSA/tree/master/0371-sum-of-two-integers) |
