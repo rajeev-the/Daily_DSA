@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/rajeev-the/Daily_DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/rajeev-the/Daily_DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1992-find-all-groups-of-farmland](https://github.com/rajeev-the/Daily_DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2105-watering-plants-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/2105-watering-plants-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajeev-the/Daily_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/rajeev-the/Daily_DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/rajeev-the/Daily_DSA/tree/master/1861-rotating-the-box) |
+| [2105-watering-plants-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/2105-watering-plants-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
+| [2105-watering-plants-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/2105-watering-plants-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/rajeev-the/Daily_DSA/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 ## Tree
 |  |
