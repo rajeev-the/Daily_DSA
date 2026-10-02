@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/rajeev-the/Daily_DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajeev-the/Daily_DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/rajeev-the/Daily_DSA/tree/master/0419-battleships-in-a-board) |
 | [0518-coin-change-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rajeev-the/Daily_DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajeev-the/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0567-permutation-in-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajeev-the/Daily_DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajeev-the/Daily_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rajeev-the/Daily_DSA/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/rajeev-the/Daily_DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajeev-the/Daily_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rajeev-the/Daily_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0767-reorganize-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajeev-the/Daily_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -432,4 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rajeev-the/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajeev-the/Daily_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajeev-the/Daily_DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-the/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
