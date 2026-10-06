@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rajeev-the/Daily_DSA/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/rajeev-the/Daily_DSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/rajeev-the/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rajeev-the/Daily_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajeev-the/Daily_DSA/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajeev-the/Daily_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/rajeev-the/Daily_DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/rajeev-the/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-the/Daily_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rajeev-the/Daily_DSA/tree/master/0141-linked-list-cycle) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/rajeev-the/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajeev-the/Daily_DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/rajeev-the/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/rajeev-the/Daily_DSA/tree/master/0097-interleaving-string) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rajeev-the/Daily_DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/rajeev-the/Daily_DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/rajeev-the/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rajeev-the/Daily_DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rajeev-the/Daily_DSA/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/rajeev-the/Daily_DSA/tree/master/0332-reconstruct-itinerary) |
