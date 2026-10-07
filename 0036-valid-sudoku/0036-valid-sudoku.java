@@ -1,14 +1,12 @@
 class Solution {
-    int m ;
-    int n;
     public boolean isValidSudoku(char[][] board) {
 
-         m = board.length;
-         n = board[0].length;
+            int  m = board.length;
+           int n = board[0].length;
 
         // row 
-       for(int i =0 ; i < n ; i++){
-        for(int j = 0 ; j < m ; j++){
+       for(int i =0 ; i < 9 ; i++){
+        for(int j = 0 ; j < 9 ; j++){
               
               if(board[i][j] != '.' && !vaild(i,j,board)){
                 return false;
@@ -17,45 +15,47 @@ class Solution {
        }
 
 
-       return true;  
+       return true; 
+
+        
+        
     }
+    public boolean vaild(int i , int j , char[][] board ){
+           
+           // row 
+           for(int col = 0 ; col < 9 ;col++){
+             if(board[i][col] == board[i][j] && j!=col){
+                return false;
+             }
+           }
 
-    public boolean vaild(int i , int j ,char[][] board){
-             
-             // row explore
-             for(int col =0 ; col < 9 ; col++){
-                if(board[i][j] ==  board[i][col] && col !=j  ){
+           // col
+
+           for(int  row = 0 ; row < 9 ; row++){
+                
+                if(board[row][j] == board[i][j] && row !=i){
                     return false;
                 }
-             }
+           }
+              
+              // box of the 
 
-              // col expolre
-             for(int row =0 ; row < 9 ; row++){
-                if(board[i][j] ==  board[row][j] && row !=i ){
-                    return false;
-                }
-             }
-
-             //explore that specific 3*3 matrix of it 
-
-             int new_row = (i/3)*3;
-             int new_col = (j/3)*3;
-
-             for(int row = new_row ; row < new_row+3 ; row++){
-                for(int col = new_col ; col < new_col+3 ; col++){
-                       
-                if((col != j || row != i )&& board[i][j] == board[row][col]){
-                    return false;
-                }
-
-                }
-             }
+              int new_row = (i/3)*3;
+              int new_col = (j/3)*3;
 
 
-             return true;
+              for(int row = new_row ;  row < new_row+3 ; row++){
+                  for(int col = new_col ; col < new_col+3 ; col++){
+                              
+                   if(board[row][col] == board[i][j] && !( row == i && col  == j )){
+                        return false;
+                   }
+                  }
+              }
+
+
+
+
+       return true;
     }
-
 }
-
-// board[i][j] ---> for row and col aya nahi hona chahiya \
-// board[i][j] ---> its not present in the it 3*3 matrix also 
