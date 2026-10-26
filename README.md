@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rajeev-the/Daily_DSA/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rajeev-the/Daily_DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rajeev-the/Daily_DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rajeev-the/Daily_DSA/tree/master/0189-rotate-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/rajeev-the/Daily_DSA/tree/master/0141-linked-list-cycle) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
