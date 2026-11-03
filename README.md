@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev-the/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rajeev-the/Daily_DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/rajeev-the/Daily_DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rajeev-the/Daily_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajeev-the/Daily_DSA/tree/master/0058-length-of-last-word) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajeev-the/Daily_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajeev-the/Daily_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajeev-the/Daily_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rajeev-the/Daily_DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajeev-the/Daily_DSA/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajeev-the/Daily_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
